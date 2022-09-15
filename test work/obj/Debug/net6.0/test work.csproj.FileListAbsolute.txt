@@ -1,0 +1,15 @@
+D:\Обучение\GeekBrains\Итоги блока. Выбор специализации. IT-специалист\Итоговая проверочная работа\Final test work\test work\obj\Debug\net6.0\test work.csproj.AssemblyReference.cache
+D:\Обучение\GeekBrains\Итоги блока. Выбор специализации. IT-специалист\Итоговая проверочная работа\Final test work\test work\obj\Debug\net6.0\test work.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение\GeekBrains\Итоги блока. Выбор специализации. IT-специалист\Итоговая проверочная работа\Final test work\test work\obj\Debug\net6.0\test work.AssemblyInfoInputs.cache
+D:\Обучение\GeekBrains\Итоги блока. Выбор специализации. IT-специалист\Итоговая проверочная работа\Final test work\test work\obj\Debug\net6.0\test work.AssemblyInfo.cs
+D:\Обучение\GeekBrains\Итоги блока. Выбор специализации. IT-специалист\Итоговая проверочная работа\Final test work\test work\obj\Debug\net6.0\test work.csproj.CoreCompileInputs.cache
+D:\Обучение\GeekBrains\Итоги блока. Выбор специализации. IT-специалист\Итоговая проверочная работа\Final test work\test work\bin\Debug\net6.0\test work.exe
+D:\Обучение\GeekBrains\Итоги блока. Выбор специализации. IT-специалист\Итоговая проверочная работа\Final test work\test work\bin\Debug\net6.0\test work.deps.json
+D:\Обучение\GeekBrains\Итоги блока. Выбор специализации. IT-специалист\Итоговая проверочная работа\Final test work\test work\bin\Debug\net6.0\test work.runtimeconfig.json
+D:\Обучение\GeekBrains\Итоги блока. Выбор специализации. IT-специалист\Итоговая проверочная работа\Final test work\test work\bin\Debug\net6.0\test work.dll
+D:\Обучение\GeekBrains\Итоги блока. Выбор специализации. IT-специалист\Итоговая проверочная работа\Final test work\test work\bin\Debug\net6.0\test work.pdb
+D:\Обучение\GeekBrains\Итоги блока. Выбор специализации. IT-специалист\Итоговая проверочная работа\Final test work\test work\obj\Debug\net6.0\test work.dll
+D:\Обучение\GeekBrains\Итоги блока. Выбор специализации. IT-специалист\Итоговая проверочная работа\Final test work\test work\obj\Debug\net6.0\refint\test work.dll
+D:\Обучение\GeekBrains\Итоги блока. Выбор специализации. IT-специалист\Итоговая проверочная работа\Final test work\test work\obj\Debug\net6.0\test work.pdb
+D:\Обучение\GeekBrains\Итоги блока. Выбор специализации. IT-специалист\Итоговая проверочная работа\Final test work\test work\obj\Debug\net6.0\test work.genruntimeconfig.cache
+D:\Обучение\GeekBrains\Итоги блока. Выбор специализации. IT-специалист\Итоговая проверочная работа\Final test work\test work\obj\Debug\net6.0\ref\test work.dll
